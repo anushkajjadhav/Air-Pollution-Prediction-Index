@@ -4,52 +4,10 @@ This project focuses on predicting the Air Quality Index (AQI) using multiple ma
 
 ---
 
-- **Demo Videos**:
-  - [ScikitLearn Model](https://youtu.be/7dp8cNXx9pU)
-  - [TensorFlow Model](https://youtu.be/5Rhdfst09Dc)
-
-- **Live Models**:
-  - [RandomForestRegressor Model](https://aqi-rfr.streamlit.app/)
-  - [SGDRegressor Model](https://aqi-sgd.streamlit.app/)
-  - [TensorFlow Model](https://aqi-nn.streamlit.app/)
-
-The experimental model demonstrates superior performance compared to the main model. Explore these models through the provided links.
-
 ## Introduction
 
 This project aims to develop machine learning models to predict the Air Quality Index (AQI) based on historical air quality data. The models are trained on the [Air Quality Data in India (2015 - 2020)](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india) dataset and evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ShubhamKNIT/AlgoMinds
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**:
-   Depending on the model you wish to interact with, run one of the following commands:
-
-   - For the main model:
-     ```bash
-     streamlit run frontend/main.py
-     ```
-
-   - For the experimental model:
-     ```bash
-     streamlit run exp/main.py
-     ```
-
-   - For the TensorFlow model:
-     ```bash
-     streamlit run DL_Models/main.py
-     ```
 
 ## Project Structure
 
