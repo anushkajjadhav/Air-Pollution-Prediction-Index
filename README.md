@@ -169,6 +169,11 @@ All selected models were deployed using **Streamlit** to enable real-time AQI pr
   - Model returns **predicted AQI** dynamically
   - Clean UI with sliders, number fields, and model-specific prediction panels
 
+## Results
+
+<img width="1138" alt="Screenshot 2025-06-27 at 2 16 37 PM" src="https://github.com/user-attachments/assets/c708ab25-470d-46c9-b1d8-6870b5cad438" />
+
+
 ---
 
 ## 📌 Final Takeaways
