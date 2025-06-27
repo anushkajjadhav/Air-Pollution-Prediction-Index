@@ -172,6 +172,12 @@ All selected models were deployed using **Streamlit** to enable real-time AQI pr
 ## Results
 
 <img width="1138" alt="Screenshot 2025-06-27 at 2 16 37 PM" src="https://github.com/user-attachments/assets/c708ab25-470d-46c9-b1d8-6870b5cad438" />
+<img width="1138" alt="Screenshot 2025-06-27 at 2 20 20 PM" src="https://github.com/user-attachments/assets/e7a49b1f-70c3-4cce-86bd-da4ffce5a523" />
+<img width="966" alt="Screenshot 2025-06-27 at 2 20 38 PM" src="https://github.com/user-attachments/assets/0df46992-60e3-4d15-ba45-66efd472f231" />
+<img width="966" alt="Screenshot 2025-06-27 at 2 20 44 PM" src="https://github.com/user-attachments/assets/83495e86-928b-4868-94db-d4e5413abcf3" />
+<img width="1170" alt="Screenshot 2025-06-27 at 2 20 55 PM" src="https://github.com/user-attachments/assets/9b8072e4-ba9f-4928-8df0-949d735ed2af" />
+<img width="966" alt="Screenshot 2025-06-27 at 2 21 14 PM" src="https://github.com/user-attachments/assets/d14f0d30-3e9e-4039-a642-ca55c3100268" />
+<img width="1138" alt="Screenshot 2025-06-27 at 2 16 37 PM" src="https://github.com/user-attachments/assets/6d5d1cf4-2ba5-4c1c-a044-d9e465a2b8b4" />
 
 
 ---
